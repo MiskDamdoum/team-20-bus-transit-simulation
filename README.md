@@ -7,8 +7,8 @@ Project Description:
 -The simulation measures key performance metrics including average passenger wait time, average trip time, bus load factor, passengers left behind due to full buses, and schedule adherence.
 
 Team Members:
-Misk Damdoum
-Malik Ramadan
+Misk Damdoum;
+Malik Ramadan;
 Rayan Charbaji
 Kais Aldehneh
 Gurjashan Sidhu
